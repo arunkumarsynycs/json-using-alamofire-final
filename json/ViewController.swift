@@ -15,6 +15,7 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
     override func viewDidLoad() {
         super.viewDidLoad()
         getCeoInfo()
+        print("hii")
         // Do any additional setup after loading the view.
         
     }
